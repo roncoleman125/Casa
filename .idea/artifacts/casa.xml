@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="casa">
+    <output-path>$PROJECT_DIR$/out/artifacts/casa</output-path>
+    <root id="archive" name="casa.jar">
+      <element id="module-output" name="Casa" />
+    </root>
+  </artifact>
+</component>
